@@ -1,0 +1,1 @@
+<p><?= $comment->getBody() ?></p>
